@@ -4,7 +4,7 @@
 
 ## Overview
 
-**OpOptimization** is an R package built in the MFIT 5008 course. This package implements the optimization method of the paper Portfolio optimization with covered calls (in the pdf file DiazKwon2019-1).
+**OpOptimization** is an R package built in the **MFIT 5008** course. This package implements the optimization method of the paper Portfolio optimization with covered calls (in the pdf file DiazKwon2019-1).
 
 The package is designed for optimizing operational processes using advanced mathematical and statistical models. The package provides tools for solving linear programming problems, generating synthetic datasets, and applying optimization algorithms.
 
@@ -48,3 +48,20 @@ For ease of understanding, the main parameters in the function are listed here. 
 
 ## Data
 The data is in **data_df.rda** and **data_k.rda**. data_df corresponds to parameter C, which is the current market price of the option. data_K corresponds to parameter K, which is the option's expiration exercise price
+
+---
+## Group members
+This project was completed by several members of the Fintech project (in no particular order):
+
+- ZHANG Wei
+
+- YANG Yifan
+
+- SUN Yuanting
+
+- ZHANG Zejing
+
+- LU Yanbo
+
+- CHEN Guilong
+
