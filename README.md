@@ -1,7 +1,7 @@
 # OpOptimization
 
 
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ## Overview
 
 - **OpOptimization** is an R package built in the **MFIT 5008** course. This package implements the optimization method of the paper Portfolio optimization with covered calls (in the pdf file DiazKwon2019-1).
