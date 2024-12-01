@@ -47,7 +47,7 @@ For ease of understanding, the main parameters in the function are listed here. 
 ---
 
 ## Data
-The data is in **data_df.rda** and **data_k.rda**. data_df corresponds to parameter C, which is the current market price of the option. data_K corresponds to parameter K, which is the option's expiration exercise price
+The example data is stored in **data_df.rda** and **data_k.rda**. data_df corresponds to parameter C, which is the current market price of the option. data_K corresponds to parameter K, which is the option's expiration exercise price. But you can easily import different data through R code
 
 ---
 ## Group members
