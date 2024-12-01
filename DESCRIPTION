@@ -8,13 +8,16 @@ Authors@R:
     	family="ZHANG",
     	email="wzhangdt@connect.ust.hk", 
     	role=c("aut", "cre"),
-    )
-                        
-Maintainer: ZHANG Wei
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+    )                     
+Maintainer: ZHANG Wei <zhangwei1218_chn@163.com>
+Description: This package provides tools for optimizing operations using mathematical models.
+License: MIT + file LECENSE
 Encoding: UTF-8
 LazyData: true
 Depends: 
     R (>= 3.5)
+RoxygenNote: 7.3.2
+Imports:
+    lpSolve
+Other:
+    The data is in data_df.rda and data_k.rda. data_df corresponds to parameter C, which is the current market price of the option. data_K corresponds to parameter K, which is the option's expiration exercise price

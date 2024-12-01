@@ -1,0 +1,2 @@
+load("/Users/zhang_wei/Desktop/OpOptimization/data/data_df.rda")
+load("/Users/zhang_wei/Desktop/OpOptimization/data/data_k.rda")
