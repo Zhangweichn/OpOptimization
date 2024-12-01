@@ -1,0 +1,20 @@
+Package: OpOptimization
+Type: Package
+Title: A method for optimizing option investments
+Version: 0.1.0
+Authors@R: 
+    person(
+    	given="Wei", 
+    	family="ZHANG",
+    	email="wzhangdt@connect.ust.hk", 
+    	role=c("aut", "cre"),
+    )
+                        
+Maintainer: ZHANG Wei
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
